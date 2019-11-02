@@ -7,8 +7,7 @@ como:
 Lbrerias como:
 nCurses
 
-Manejo de estructuras de datos
-
+# Contribuir
 puede realizar su aporte a este repositorio, pero primero comparta con nosotros
 en los issues lo que desea aportar antes de enviar algun commit.
 
