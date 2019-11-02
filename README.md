@@ -5,7 +5,7 @@ como:
 - Notas profesionales de C
 
 Lbrerias como:
-nCurses
+- nCurses
 
 # Contribuir
 puede realizar su aporte a este repositorio, pero primero comparta con nosotros
